@@ -1,4 +1,4 @@
-# Customer List
+#Customer List
 
 ## Testing Requirements
 - Input should have data-test-id attribute 'app-input'.
